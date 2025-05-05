@@ -6,3 +6,4 @@ Git is free software.
 Dev is here!
 Fight starts!
 Fight is a must!
+Creating a new branch is quick AND simple.
