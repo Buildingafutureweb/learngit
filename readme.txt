@@ -5,3 +5,4 @@ River again!
 Git is free software.
 Dev is here!
 Fight starts!
+Fight is a must!
